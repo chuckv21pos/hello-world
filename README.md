@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, I'm Chuck, a graphic designer.
+Hello, I'm Chuck, a graphic designer.
