@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
 
-Hi, I'm Chuck.
+Hi, I'm Chuck, a graphic designer.
